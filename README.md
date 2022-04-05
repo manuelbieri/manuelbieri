@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on [Fumagalli_2020](https://github.com/manuelbieri/Fumagalli_2020)
 
-- 🌱 I’m currently learning **Swift (incl. SwiftUi) and Ruby (in the context of Jekyll)**
+- 🌱 I’m currently learning **Swift (incl. SwiftUi) and Ruby (context of Jekyll)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manuelbieri](https://github.com/manuelbieri)
+- 👨‍💻 All of my projects are available at [github.com/manuelbieri](https://github.com/manuelbieri)
 
-- 📫 How to reach me **me@manuelbieri.ch**
+- 📫 How to reach me **mail@manuelbieri.ch**
 
-- 📄 Know about my experiences [https://manuelbieri.ch/about.html](https://manuelbieri.ch/about.html)
+- 📄 Know about my experiences [manuelbieri.ch/about.html](https://manuelbieri.ch/about.html)
 
 - 😄 Pronouns: he/him
 
