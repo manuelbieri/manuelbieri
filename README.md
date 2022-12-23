@@ -2,6 +2,6 @@
 
 📫 How to reach me **[mail@manuelbieri.ch](mailto:mail@manuelbieri.ch)**
 
-📄 Know about my experiences [manuelbieri.ch/about.html](https://manuelbieri.ch/about.html)
+📄 Get to know me [manuelbieri.ch](https://manuelbieri.ch)
 
 😄 Pronouns: he/him
