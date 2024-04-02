@@ -1,4 +1,4 @@
-👨‍💻 All of my projects are available at [github.com/manuelbieri](https://github.com/manuelbieri?tab=repositories)
+👨‍💻 All of my projects are available at [github.com/manuelbieri](https://github.com/manuelbieri)
 
 📫 How to reach me **[mail@manuelbieri.ch](mailto:mail@manuelbieri.ch)**
 
