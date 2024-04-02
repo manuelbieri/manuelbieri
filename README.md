@@ -3,5 +3,3 @@
 📫 How to reach me **[mail@manuelbieri.ch](mailto:mail@manuelbieri.ch)**
 
 📄 About me [manuelbieri.ch](https://manuelbieri.ch)
-
-😄 Pronouns: he/him
